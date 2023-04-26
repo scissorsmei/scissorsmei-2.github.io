@@ -1,0 +1,188 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="verdure.com" resolutions="1x" timestamp="1539283558548">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_temp-1.css" crc="4125865077" ref="products:services"/>
+    <file name="master_b-master.css" crc="3893939859" ref="message-us:our-store"/>
+    <file name="master_temp-2.css" crc="4003832753" ref="p1:p3:p2"/>
+    <file name="master_a-master.css" crc="4254081433" ref="index"/>
+    <file name="p1.css" crc="3846666219" ref="p1"/>
+    <file name="p3.css" crc="132057806" ref="p3"/>
+    <file name="message-us.css" crc="291017885" ref="message-us"/>
+    <file name="index.css" crc="443081690" ref="index"/>
+    <file name="p2.css" crc="54756429" ref="p2"/>
+    <file name="products.css" crc="89829594" ref="products"/>
+    <file name="services.css" crc="4026182530" ref="services"/>
+    <file name="our-store.css" crc="3761223840" ref="our-store"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:products:services:message-us:p1:p2:p3:our-store"/>
+    <file name="museutils.js" crc="3803043152" ref="index:products:services:message-us:p1:p2:p3:our-store"/>
+    <file name="whatinput.js" crc="86476730" ref="index:products:services:message-us:p1:p2:p3:our-store"/>
+    <file name="museconfig.js" crc="380897831" ref="index:products:services:message-us:p1:p2:p3:our-store"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:products:services:message-us:p1:p2:p3:our-store"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:products:services:message-us:p1:p2:p3:our-store"/>
+    <file name="require.js" crc="4157109226" ref="index:products:services:message-us:p1:p2:p3:our-store"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="products:services:message-us:our-store"/>
+    <file name="html5shiv.js" crc="4241844378" ref="products:services:message-us:p1:p2:p3:our-store"/>
+    <file name="webpro.js" crc="242022427" ref="message-us:index"/>
+    <file name="form_check.php" crc="147359589" ref="message-us"/>
+    <file name="form_throttle.php" crc="93986428" ref="message-us"/>
+    <file name="form_process.php" crc="3851993751" ref="message-us"/>
+    <file name="form-u1850.php" crc="4202028571" ref="message-us"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u1475-4.png" crc="90087246" ref="index"/>
+    <file name="decor-decoration-flatlay-1470171.jpg" crc="268810549" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="401cd5c2ffcdc9803d7da4fe2391c386.jpg" crc="136160599" seo="true" ref="products:p1">
+      <caption webpage="products" alt=""/>
+      <caption webpage="p1" alt=""/>
+    </file>
+    <file name="001prd20170512-7_1024x1024.jpg" crc="4015288744" seo="true" ref="products:p2">
+      <caption webpage="products" alt=""/>
+      <caption webpage="p2" alt=""/>
+    </file>
+    <file name="u1410-4.png" crc="454592799" ref="products:services"/>
+    <file name="split-leaf philodendron-crop-u891.jpg" crc="4257803688" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="4k-wallpaper-close-up-dew-807598.jpg" crc="3922737339" ref="products:services:message-us:p1:p2:p3:our-store">
+      <caption webpage="services" alt=""/>
+      <caption webpage="find-us" alt=""/>
+      <caption webpage="our-store" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="message-us" alt=""/>
+      <caption webpage="p1" alt=""/>
+      <caption webpage="p2" alt=""/>
+      <caption webpage="p3" alt=""/>
+    </file>
+    <file name="agriculture-alternative-background-1118154.jpg" crc="16975751" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="bathtub-couple-daytime-1329710.jpg" crc="177176472" ref="services:index" seo="true">
+      <caption webpage="services" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0954.jpg" crc="515794899" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="fb white.png" crc="3932083215" seo="true" ref="message-us">
+      <caption webpage="message-us" alt=""/>
+    </file>
+    <file name="ig white.png" crc="3812356140" seo="true" ref="message-us">
+      <caption webpage="message-us" alt=""/>
+    </file>
+    <file name="twt white.png" crc="4045865850" seo="true" ref="message-us">
+      <caption webpage="message-us" alt=""/>
+    </file>
+    <file name="u2786-4.png" crc="454592799" ref="message-us:our-store"/>
+    <file name="succu.jpg" crc="513460043" seo="true" ref="p1">
+      <caption webpage="p1" alt=""/>
+    </file>
+    <file name="geo-stand-black-small-with-plant_1024x1024.jpg" crc="152389485" seo="true" ref="p1">
+      <caption webpage="p1" alt=""/>
+    </file>
+    <file name="09b933220e5433bf5035b11fcfe2187e-crop-u1575.jpg" crc="340509584" seo="true" ref="p1">
+      <caption webpage="p1" alt=""/>
+    </file>
+    <file name="cereus-cactus-norden-white.jpg" crc="5087416" seo="true" ref="p1">
+      <caption webpage="p1" alt=""/>
+    </file>
+    <file name="stock-photo-150151767-1500x1000-crop-u1587.jpg" crc="3927072104" seo="true" ref="p1">
+      <caption webpage="p1" alt=""/>
+    </file>
+    <file name="pexels-photo-796620-crop-u1581.jpg" crc="4047901347" seo="true" ref="p1">
+      <caption webpage="p1" alt=""/>
+    </file>
+    <file name="aloe-plant-crop-u1584.jpg" crc="455267660" seo="true" ref="p1">
+      <caption webpage="p1" alt=""/>
+    </file>
+    <file name="u1941-4.png" crc="4258778816" ref="p1:p2:p3"/>
+    <file name="img_8210-2_grande.jpg" crc="317139756" seo="true" ref="p2">
+      <caption webpage="p2" alt=""/>
+    </file>
+    <file name="6a00d8358081ff69e201b8d2418d9b970c-crop-u1956.jpg" crc="4023308783" seo="true" ref="p2">
+      <caption webpage="p2" alt=""/>
+    </file>
+    <file name="buy-burgon-ball-dip-hanging-plant-pot-online-snapdragon-edinburgh-fancy-pots-peaceful-5-crop-u1960.jpg" crc="15089489" seo="true" ref="p2">
+      <caption webpage="p2" alt=""/>
+    </file>
+    <file name="heart-leaf-white-hanging-s-2-e1471827417468-crop-u1958.jpg" crc="105941617" seo="true" ref="p2">
+      <caption webpage="p2" alt=""/>
+    </file>
+    <file name="thinkstockphotos-103306950-crop-u1962.jpg" crc="3896511393" seo="true" ref="p2">
+      <caption webpage="p2" alt=""/>
+    </file>
+    <file name="english-ivy-crop-u1964.jpg" crc="4121467103" seo="true" ref="p2">
+      <caption webpage="p2" alt=""/>
+    </file>
+    <file name="pothos-plants-crop-u1966.jpg" crc="494012959" seo="true" ref="p2">
+      <caption webpage="p2" alt=""/>
+    </file>
+    <file name="foliage plant - castiron-crop-u2081.jpg" crc="483301733" seo="true" ref="p3">
+      <caption webpage="p3" alt=""/>
+    </file>
+    <file name="peperomia-piccolo-banda-20cm_2000x.jpg" crc="357687636" seo="true" ref="p3">
+      <caption webpage="p3" alt=""/>
+    </file>
+    <file name="nearly-natural-artificial-foliage-5988-64_1000.jpg" crc="420616089" seo="true" ref="p3">
+      <caption webpage="p3" alt=""/>
+    </file>
+    <file name="umbrella-plant-indoor-house-plants.jpg" crc="4221494382" seo="true" ref="p3">
+      <caption webpage="p3" alt=""/>
+    </file>
+    <file name="contemporary - snake plant-crop-u2087.jpg" crc="3767014174" seo="true" ref="p3">
+      <caption webpage="p3" alt=""/>
+    </file>
+    <file name="r1981349_33.jpg" crc="461265913" seo="true" ref="p3">
+      <caption webpage="p3" alt=""/>
+    </file>
+    <file name="split-leaf philodendron-crop-u2093.jpg" crc="4219393976" seo="true" ref="p3">
+      <caption webpage="p3" alt=""/>
+    </file>
+    <file name="strelitzia nicolai.jpg" crc="454776961" seo="true" ref="p3">
+      <caption webpage="p3" alt=""/>
+    </file>
+    <file name="adult-apartment-carpet-1054974-crop-u2890.jpg" crc="327264487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="bleshyou-crop-u3158.jpg" crc="4132770312" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nonagon-style-n9s-indoor-house-plant-green-garden-white-eco-crop-u3178.jpg" crc="3796769289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schermafbeelding-2017-07-05-om-152905-crop-u3198.jpg" crc="408302563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girl-indoors-leaves-887767-crop-u3017.jpg" crc="4232723843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beautiful-blur-fashion-954975.jpg" crc="472804265" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chairs-contemporary-cosy-930004-crop-u3077.jpg" crc="4193698305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blur-cacti-cactuses-793012.jpg" crc="3847604846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cacti-decoration-flora-37076-crop-u3117.jpg" crc="4201179999" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="192452481" seo="true" mt="1539283293911" redirect="true"/>
+  <file name="products.html" crc="243550053" seo="true" mt="1539283543576" redirect="true"/>
+  <file name="services.html" crc="150816578" seo="true" mt="1539283082595" redirect="true"/>
+  <file name="message-us.html" crc="399051346" seo="true" mt="1539282746503" redirect="true"/>
+  <file name="p1.html" crc="358686111" seo="true" mt="1539280906421" redirect="true"/>
+  <file name="p2.html" crc="3813876051" seo="true" mt="1539280906422" redirect="true"/>
+  <file name="p3.html" crc="125030684" seo="true" mt="1539280906424" redirect="true"/>
+  <file name="our-store.html" crc="3841535648" seo="true" mt="1539282727996" redirect="true"/>
+</manifest>
